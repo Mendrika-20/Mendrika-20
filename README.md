@@ -5,20 +5,15 @@
 - 🥅 Purpose for 2024: Learn more about building cross-platform applications with Flutter and explore AI world
 - ⚡ Fun fact: I love challenging myself to go beyond my limit
 
-### Connect with me:
-
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 ### Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode,go, vue,vite,nuxtjs,vercel,sklearn,tensorflow,py,mysql,linux,js,java,idea,github,flutter,dart,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,docker,mysql,linux,github" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,nuxtjs,bun,js" />
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,py,anaconda,idea" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma,vscode"/>
+    <img src="https://skillicons.dev/icons?i=go,java,php,vercel,ts"/>
   </a>
 </p>
 
@@ -67,3 +62,4 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
