@@ -16,8 +16,11 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,wordpress,vscode,go, vue,vite,nuxtjs,vercel,sklearn,tensorflow,py,mysql,linux,js,java,idea,github,flutter,dart,androidstudio&perline=3)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,wordpress,vscode,go, vue,vite,nuxtjs,vercel,sklearn,tensorflow,py,mysql,linux,js,java,idea,github,flutter,dart,androidstudio" />
+  </a>
+</p>
 
 <br />
 <br />
